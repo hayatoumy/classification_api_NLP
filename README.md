@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+A faithful butler, who reads the news everyday for you and selects which topics he knows you will be more intereste in. That would be really nice, ha? 
+<br /> If you're like me, can't afford one, you need an algorithm that does that for you. For this one, I've got you.
 
-You can use the [editor on GitHub](https://github.com/hayatoumy/classification_api/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Say, you're a journalist who writes for a nutrition magazine, a nutritionist, a committed person to healthy eating, or simply a nutrition enthusiast. You follow nutrition posts, but online there's a ton of other posts about cooking that you don't care about; you really would love to separate the two so you don't end up skimming through many posts that you are not interested in. 
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+For that, I have tested out several natural langauge processing models to classify which post falls into which category: cooking, or nutrition. 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hayatoumy/classification_api/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+I have reached an excellent model, with accuracy 98%. 
+<br /> So you can rest assured that almost all of the posts are being classified correctly!
